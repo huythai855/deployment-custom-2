@@ -10,7 +10,7 @@ namespace: "default"
 deploymentId: "12345"
 username: "testuser"
 storageSize: "5Gi"
-storageClass: "juicefs-sc-static"
+storageClass: "juicefs-sc"
 volumeHandle: "jfs-volume"
 secretName: "juicefs-csi-secret"
 
